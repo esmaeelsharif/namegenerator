@@ -22,12 +22,11 @@ This tool surprised me the most. While the AI suggestions are solid (not revolut
 
 ---
 
-### 🤖 2. [Namelix](https://namelix.com) - The Learning AI
+### 🤖 2. [ChatGPT](https://chatgpt.com/g/g-68b308d77a2481918be076c914478ea8-global-brand-domain-name-generator) - ChatGPT Name Generator
 
 **Why it's useful:** Machine learning that actually learns from your preferences
 
-Pick names you like, and Namelix gets better at suggesting similar ones. The logo mockups alongside names help visualize your brand before committing.
-
+Multilingual AI brand name generator (EN/ES/PT/HI/DE) that delivers 10–15 creative, memorable business name ideas with matching domain suggestions (.com first, plus smart local TLDs). SEO-friendly copy, clean formatting.
 **Best for:** Iterative refinement of name ideas  
 **Watch out for:** Sometimes generates overly "startup-y" names
 
